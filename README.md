@@ -1,10 +1,10 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name :
+Name : Varsha Ajith
 
-Roll no :
+Roll no :212221230118
 
-Date of experiment :
+
 
  
 
